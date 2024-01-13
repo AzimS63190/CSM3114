@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "218509003006",
+    "project_id": "projectmonitoring-9bc0c",
+    "storage_bucket": "projectmonitoring-9bc0c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:218509003006:android:3f53353a40061686203daf",
+        "android_client_info": {
+          "package_name": "com.example.projectmonitoring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8KCUFZejA1W5HdWYeOc6T1xj5UKQsC7o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
